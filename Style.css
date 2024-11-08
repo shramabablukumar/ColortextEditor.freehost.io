@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    
+}
+div{
+    width: 500px;
+    height:  200px;
+    margin: auto;
+    border: 1px black solid;
+}
+
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
